@@ -1,0 +1,5 @@
+huge part of the configuration of the physical layer is also located
+in software, thanks to open source drivers, it would be possible
+to substitute the existing code, which is now specific for 802.11,
+and allow another MAC protocol to take control over the wireless
+network card

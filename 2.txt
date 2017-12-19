@@ -1,0 +1,11 @@
+The proliferation of multimedia applications making use of 802.11n networks, and therefore requiring
+the accompanying QoS, has made it imperative to improve the QoS guarantees. A well-known method
+is to employ a TDMA access scheme instead of the standard CSMA access scheme on commodity hardware. 
+¡¢A considerable number of related works have focused on this issue; however, many assume the
+manipulation of commodity hardware to be limited to QoS parameters and none of them did a thorough
+analysis of one of the most crucial elements to make such a system work, that is, the timer source. The
+goal of this article is twofold; first we discuss a detailed performance analysis of possible timer sources in
+different environments and stressed by several methods. Second, we discuss the issues that developers
+face when using commodity hardware in a TDMA access scheme. As a result we present a successful slotted 
+transmission scheme on commodity hardware where less than 0.1% of the received packets exhibit
+a jitter larger than 10 s, while transmitting a packet every 256 s.

@@ -1,0 +1,14 @@
+Wi-Fi networks have become increasingly popular in multimedia applications, 
+which can be attributed to their low cost,
+constantly increasing bandwidth and relative ease of deployment.
+The IEEE802.11n standard enables multimedia streaming thanks
+to its higher bandwidth and is now being deployed in applications
+where previously proprietary radio systems were required.
+However, in situations where strict QoS guarantees are required,
+the standard IEEE802.11 has no answers. Although it can adjust
+some of the QoS parameters, it is still not possible to provide any
+guarantees. Using the Wi-Fi cards in TDMA access mode would be
+able to solve this QoS guarantee issue. Manufacturing such chip that
+allows for TDMA access mode is an incredibly expensive undertaking that
+ would only be profitable in huge volumes. However, since
+the MAC layer is completely embedded in the Linux kernel and a
